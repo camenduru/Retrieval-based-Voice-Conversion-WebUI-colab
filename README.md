@@ -7,8 +7,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab/blob/main/retrieval_based_voice_conversion_webui_colab.ipynb) | retrieval_based_voice_conversion_webui_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab/blob/main/retrieval_based_voice_conversion_webui_advanced_colab.ipynb) | retrieval_based_voice_conversion_webui_advanced_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab/blob/main/retrieval_based_voice_conversion_webui_colab.ipynb) | simple
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Retrieval-based-Voice-Conversion-WebUI-colab/blob/main/retrieval_based_voice_conversion_webui_advanced_colab.ipynb) | advanced
 
 ### Main Repo
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI <br />
