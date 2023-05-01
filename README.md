@@ -12,3 +12,5 @@
 ### Main Repo
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI <br />
 https://github.com/777gt/EVC <br />
+https://colab.research.google.com/drive/1r4IRL0UA7JEoZ0ZK8PKfMyTIBHKpyhcw?usp=sharing <br />
+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/Retrieval_based_Voice_Conversion_WebUI.ipynb <br />
