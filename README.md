@@ -10,3 +10,4 @@
 
 ### Main Repo
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+https://github.com/777gt/EVC
